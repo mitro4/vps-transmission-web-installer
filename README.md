@@ -20,7 +20,7 @@
 
 1. Загрузите скрипт на ваш сервер:
 ```bash
-wget https://raw.githubusercontent.com/your-username/vps-transmission/main/install.sh
+wget https://raw.githubusercontent.com/mitro4/vps-transmission-web-installer/refs/heads/main/install.sh
 ```
 
 2. Сделайте скрипт исполняемым:
